@@ -1,3 +1,6 @@
+# Original author
+I got this from a template repository provided by [Qiusheng Wu](https://github.com/giswqs) (thanks for all your contributions to the geoworld!)
+
 # streamlit-multipage-template
 
 A streamlit multipage app template for geospatial applications. It can be deployed to [Streamlit Cloud](https://streamlit.io/cloud) or [MyBinder](https://mybinder.org/).
